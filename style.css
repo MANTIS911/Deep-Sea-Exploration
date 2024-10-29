@@ -1,15 +1,11 @@
-.div1 {
-    background-image: url(Deep\ Sea\ Wallpaper.webp);
-}
-
 h1 {
     color: rgb(0, 247, 255);
     text-shadow: 0px 0px 15px rgb(0, 255, 0);
 }
 
 h3 {
-    color: rgb(0, 255, 13);
-
+    color: rgb(0, 247, 255);
+background-color: black;
 }
 
 :link {
@@ -17,6 +13,31 @@ h3 {
 
 }
 
-.div2{
-    background-image: url(Fish1.webp);
+#div2{
+    background-image: url(Blob\ Sculpin.webp);
+
+    background-repeat: no-repeat;
+    
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+    
+        background-attachment:fixed;
+}
+
+#div1{
+    background-image: url(Deep\ Sea\ Wallpaper.webp);
+
+    background-repeat: no-repeat;
+    
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+    
+        background-attachment: fixed;
+}
+
+p{
+    color: aqua;
+    background-color: black;
 }
