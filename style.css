@@ -65,3 +65,27 @@ p{
 
     background-attachment: fixed;
 }
+
+#div5 {
+    background-image: url(DoradoOctopusPic.webp);
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+    background-attachment: fixed;
+}
+
+#div6 {
+    background-image: url(Deep-SeaPorterCrab.webp);
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+    background-attachment: fixed;
+}
