@@ -89,3 +89,27 @@ p{
 
     background-attachment: fixed;
 }
+
+#div7 {
+    background-image: url(Grumpy\ Dwarfgoby\ Pic.webp);
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+    background-attachment: fixed;
+}
+
+#div8 {
+    background-image: url(Hannanpygmysquid\ Pic.png);
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+    background-attachment: fixed;
+}
